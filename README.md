@@ -85,7 +85,7 @@ Ce fichier contient la structure globale de l’application.
  ### **res/drawable/** – Design personnalisé
  Les fichiers drawable définissent l’apparence graphique de l’application.
  
-- **bg_app.xml:**:
+- **bg_app.xml**:
   
       -- Fond global avec gradient coloré
       -- Donne une identité visuelle moderne
